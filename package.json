@@ -9,16 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
-    "next": "15.3.5"
+    "fabric": "^6.7.0",
+    "fabricjs-react": "^1.2.2",
+    "konva": "^9.3.20",
+    "next": "15.3.5",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-image-crop": "^11.0.10",
+    "react-konva": "^19.0.7",
+    "react-papaparse": "^4.4.0",
+    "use-image": "^1.1.4"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@tailwindcss/postcss": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@tailwindcss/postcss": "^4",
-    "tailwindcss": "^4"
+    "tailwindcss": "^4",
+    "typescript": "^5"
   }
 }
